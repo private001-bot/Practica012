@@ -1,3 +1,3 @@
-public class ILaptop {
+public interface ILaptop {
     void ejecutarPrueba();
 }
